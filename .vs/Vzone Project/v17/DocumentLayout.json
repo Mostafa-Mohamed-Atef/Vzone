@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\views\\organizations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:views\\organizations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|e:\\developing\\c#\\vzone\\vzone project\\vzone\\models\\vzonecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63477A41-C726-41E7-9354-4F599A733BFF}|Vzone Project.csproj|solutionrelative:models\\vzonecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Volunteers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Volunteers\\Index.cshtml",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Volunteers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Volunteers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T01:27:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VolunteersController.cs",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:27:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T01:17:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Organizations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizations\\Index.cshtml",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Organizations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Organizations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T01:14:53.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T01:05:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:01:20.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganizationsController.cs",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "Controllers\\OrganizationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:55:49.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T00:34:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T00:27:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VZoneContext.cs",
+              "DocumentMoniker": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Models\\VZoneContext.cs",
+              "RelativeDocumentMoniker": "Models\\VZoneContext.cs",
+              "ToolTip": "E:\\Developing\\C#\\Vzone\\Vzone Project\\Vzone\\Models\\VZoneContext.cs",
+              "RelativeToolTip": "Models\\VZoneContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:21:11.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

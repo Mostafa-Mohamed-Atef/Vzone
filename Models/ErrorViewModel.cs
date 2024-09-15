@@ -1,4 +1,4 @@
-namespace Vzone.Models
+namespace Vzone_Project.Models
 {
     public class ErrorViewModel
     {

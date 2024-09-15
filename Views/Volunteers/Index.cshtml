@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Vzone_Project.Models.Volunteer>
+
+@{
+    ViewData["Title"] = "Volunteers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content">
+    <h2>Volunteers</h2>
+
+    <p>
+        <a asp-action="Create" class="btn">Create New Volunteer</a>
+    </p>
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Skills)</th>
+                    <th>@Html.DisplayNameFor(model => model.Experience)</th>
+                    <th>@Html.DisplayNameFor(model => model.Location)</th>
+                    <th>@Html.DisplayNameFor(model => model.Reviews)</th>
+                    <th>@Html.DisplayNameFor(model => model.VolunteerNavigation)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Skills)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Experience)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Location)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Reviews)</td>
+                        <td>@Html.DisplayFor(modelItem => item.VolunteerNavigation.UserId)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.VolunteerId" class="btn">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.VolunteerId" class="btn">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.VolunteerId" class="btn">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Vzone.Models;
+using Vzone_Project.Models;
 
-namespace Vzone.Controllers
+namespace Vzone_Project.Controllers
 {
     public class HomeController : Controller
     {
